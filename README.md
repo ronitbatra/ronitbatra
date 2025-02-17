@@ -14,7 +14,7 @@ Reach out to me @ xfb7hj@virginia.edu
 - 🏗️ **Data Engineering** – Building scalable databases with **PostgreSQL, Hasura, and AWS.**  
 - 💡 **AI & Machine Learning** – Applying ML techniques to **predictive analytics & NLP.**  
 ---
----
+
 ## Tech Stack  
 ### **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
