@@ -1,10 +1,8 @@
-# Hey, I'm Ronit!
+# Hey, I'm Ronit! 👋
 
-Currently working at **Edtrax**
--
-Passionate about the intersection of **Math, Finance, Computer Science, and Data Engineering** 
--
-Reach out to me @ xfb7hj@virginia.edu
+### 🚀 Currently working at **Edtrax**  
+📊 Passionate about the intersection of **Math, Finance, Computer Science, and Data Engineering**  
+📬 Reach out to me: [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:xfb7hj@virginia.edu)  
 ---
 
 ## 🎵 Now Playing  
