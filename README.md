@@ -1,12 +1,8 @@
 # Hey, I'm Ronit! 👋
 
-**I build [adjective] [type of projects] that [impact statement].**  
-(Currently working at **[Company Name]** | Previously at **[Previous Company]**)
+(Currently working at **Edtrax**)
 
-🚀 Passionate about **[your main areas of interest]**  
-💡 Focused on **[your specialties—UX, data, devtools, AI, etc.]**  
-📚 Learning **[new technologies or skills you're exploring]**  
-🎯 Open to **[collaborations, hiring, mentorship, etc.]**  
+Passionate about the intersection of **Math, Finance, Computer Science, and Data Engineering**  
 
 ---
 
