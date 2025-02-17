@@ -1,8 +1,6 @@
-# Hey, I'm Ronit! 
+# Hey, I'm Ronit! 👋  
+<sub>Currently working at <strong>Edtrax</strong> | Passionate about <strong>Math, Finance, Computer Science, and Data Engineering</strong> | Reach out: <a href="mailto:xfb7hj@virginia.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a></sub>
 
-Currently working at **Edtrax**  
-Passionate about the intersection of **Math, Finance, Computer Science, and Data Engineering**  
-Reach out to me: [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:xfb7hj@virginia.edu)  
 ---
 
 ## 🎵 Now Playing  
