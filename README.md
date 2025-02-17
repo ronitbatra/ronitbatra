@@ -7,7 +7,7 @@ I am passionate about the intersection of **Math, Finance, Computer Science, and
 ---
 
 ## 🎵 Now Playing  
-![Spotify Now Playing]([![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=17ajwq4yksi83479g01keyw6x&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=25d097&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile))  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=17ajwq4yksi83479g01keyw6x&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
