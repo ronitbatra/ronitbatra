@@ -7,7 +7,13 @@ Reach out to me @ xfb7hj@virginia.edu
 
 ## 🎵 Now Playing  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=17ajwq4yksi83479g01keyw6x&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+---
 
+## Interests & Learning  
+- 📊 **Quantitative Finance** – Exploring **machine learning for trading & risk models.**  
+- 🏗️ **Data Engineering** – Building scalable databases with **PostgreSQL, Hasura, and AWS.**  
+- 💡 **AI & Machine Learning** – Applying ML techniques to **predictive analytics & NLP.**  
+---
 ---
 ## Tech Stack  
 ### **Languages**  
@@ -45,7 +51,7 @@ Reach out to me @ xfb7hj@virginia.edu
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
 ---
 
-## 📫 Let's Connect  
+## Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ronitbatra)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xfb7hj@virginia.edu)
 ---
