@@ -1,9 +1,8 @@
 # Hey, I'm Ronit!
 
-(Currently working at **Edtrax**)
-
-I am passionate about the intersection of **Math, Finance, Computer Science, and Data Engineering**  
-
+Currently working at **Edtrax**
+Passionate about the intersection of **Math, Finance, Computer Science, and Data Engineering** 
+Reach out to me @ xfb7hj@virginia.edu
 ---
 
 ## 🎵 Now Playing  
