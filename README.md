@@ -1,6 +1,5 @@
-# Hey, I'm Ronit! 👋  
-<sub>Currently working at <strong>Edtrax</strong> | Passionate about <strong>Math, Finance, Computer Science, and Data Engineering</strong> | Reach out: <a href="mailto:xfb7hj@virginia.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a></sub>
-
+# Hey, I'm Ronit!
+<sub>Currently working at <strong>Edtrax</strong> | Passionate about <strong>Math, Finance, Computer Science, and Data Engineering</strong> | Reach out: xfb7hj@virginia.edu
 ---
 
 ## 🎵 Now Playing  
@@ -8,9 +7,9 @@
 ---
 
 ## Interests & Learning  
-- 📊 **Quantitative Finance** – Exploring **machine learning for trading & risk models.**  
-- 🏗️ **Data Engineering** – Building scalable databases with **PostgreSQL, Hasura, and AWS.**  
-- 💡 **AI & Machine Learning** – Applying ML techniques to **predictive analytics & NLP.**  
+-  **Quantitative Finance** – Exploring **machine learning for trading & risk models.**  
+-  **Data Engineering** – Building scalable databases with **PostgreSQL, Hasura, and AWS.**  
+-  **AI & Machine Learning** – Applying ML techniques to **predictive analytics & NLP.**  
 ---
 
 ## Tech Stack  
