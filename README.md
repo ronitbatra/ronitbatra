@@ -2,24 +2,12 @@
 
 (Currently working at **Edtrax**)
 
-Passionate about the intersection of **Math, Finance, Computer Science, and Data Engineering**  
+I am passionate about the intersection of **Math, Finance, Computer Science, and Data Engineering**  
 
 ---
 
 ## 🎵 Now Playing  
-![Spotify Now Playing](https://novatorem-username.vercel.app/api/spotify)  
-
----
-
-## 📌 Pinned Repositories  
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-name&theme=tokyonight)](https://github.com/your-username/repo-name)  
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-name&theme=tokyonight)](https://github.com/your-username/repo-name)  
-
----
-
-## 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)
+![Spotify Now Playing](https://novatorem-rbatra.vercel.app/api/spotify)  
 
 ---
 
@@ -35,5 +23,3 @@ Passionate about the intersection of **Math, Finance, Computer Science, and Data
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ronitbatra)  
 
 ---
-
-🚀 *Radically empathetic technology builds a more inclusive future.* ✨
