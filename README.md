@@ -1,5 +1,5 @@
 # Hey, I'm Ronit!
-<sub>Currently working at <strong>Edtrax</strong> | Passionate about <strong>Math, Finance, Computer Science, and Data Engineering</strong> | Reach out: xfb7hj@virginia.edu
+<sub>Currently working on <strong>Edtrax</strong> | Passionate about <strong>Math, Finance, Computer Science, and Data Engineering</strong> | Reach out: xfb7hj@virginia.edu
 ---
 
 ## 🎵 Now Playing  
